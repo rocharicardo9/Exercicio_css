@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Site de Notícias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Seu Site de Notícias</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#Entretenimento" title="Ir para a seção de entretenimento">entretenimento</a>
+                </li>
+                <li><a href="#Tecnologia" title="Ir para a seção de Tecnologia">Tecnologia</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Entretenimento</h2>
+        <article>
+            <img src="./imagens/passeio de balão.jpg" alt="Parque de diversão" />
+            <header>
+                <time>04/07/2024 às 12:35</time>
+            </header>
+            <h3>Lugar para se divertir no Interior</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+    </article>
+    </section><h2>tecnologia</h2>
+    <article>
+        <img src="./imagens/Tecnologia.jpg" alt="Em alta" />
+        <header>
+            <time>04/12/2024 às 12:35</time>
+        </header>
+        <h3>Tecnologia em alta </h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+        </p>
+        <a href="#" title="Leia a notícia completa">Ler mais</a>
+    </article>
+    <article>
+        <img src="./imagens/linguagem de programação.jpg" alt="Forte crescimento na area" />
+        <header>
+            <time>04/12/2024 às 12:35</time>
+        </header>
+        <h3>Forte crescimento </h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+        </p>
+        <a href="#" title="Leia a notícia completa">Ler mais</a>
+    </article>
+</section>
+</body>
+</html>
+
